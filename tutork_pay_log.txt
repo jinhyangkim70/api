@@ -1,0 +1,1757 @@
+
+[2017-03-21 05:58:58]==========================================
+
+[2017-03-21 07:12:38]==========================================
+
+[2017-03-21 08:57:55]==========================================
+mc_gross:134.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:01:57:51 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.19
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:7E485936RW9073244
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.19
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:100 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-100|100160|113
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:134.00
+shipping:0.00
+:
+
+[2017-03-21 08:59:23]==========================================
+
+[2017-03-21 08:59:50]==========================================
+mc_gross:13.40
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:01:59:44 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:0.69
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:17508933090908040
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:0.69
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:10 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-10|100160|114
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:13.40
+shipping:0.00
+:
+
+[2017-03-21 09:02:54]==========================================
+mc_gross:26.80
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:02:51 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:1.08
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:1WN115871H7925619
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:1.08
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:20 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-20|100160|115
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:26.80
+shipping:0.00
+:
+
+[2017-03-21 09:12:11]==========================================
+mc_gross:174.20
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:12:08 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:5.35
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:94H02995M92379229
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:5.35
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:130 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-130|100160|116
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:174.20
+shipping:0.00
+
+[2017-03-21 09:14:42]==========================================
+mc_gross:268.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:14:39 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:8.07
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:6N726039Y3487584N
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:8.07
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-200|100160|117
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:268.00
+shipping:0.00
+
+[2017-03-21 09:23:54]==========================================
+mc_gross:26.80
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:23:42 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:1.08
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:47695079JK822431R
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:1.08
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:20 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-20|100367|118
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:26.80
+shipping:0.00
+
+[2017-03-21 09:26:37]==========================================
+mc_gross:134.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:26:35 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.19
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:27C53043TN0255029
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.19
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:100 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-100|100367|119
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:134.00
+shipping:0.00
+
+[2017-03-21 09:29:14]==========================================
+mc_gross:134.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:29:09 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.19
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:35479858RP419352K
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.19
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:100 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-100|100367|120
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:134.00
+shipping:0.00
+
+[2017-03-21 09:33:09]==========================================
+mc_gross:147.40
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:33:06 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.57
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:1HW032015P545801N
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.57
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:110 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-110|100367|121
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:147.40
+shipping:0.00
+
+[2017-03-21 09:38:58]==========================================
+mc_gross:201.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:38:55 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:6.13
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:4YT4712984932640S
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:6.13
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:150 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-1500|100367|122
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:201.00
+shipping:0.00
+
+[2017-03-21 09:39:52]==========================================
+mc_gross:187.60
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:39:50 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:5.74
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:5N188033HA435361D
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:5.74
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:140 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-1400|100367|123
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:187.60
+shipping:0.00
+
+[2017-03-21 09:41:05]==========================================
+mc_gross:160.80
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:02:41:03 Mar 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.96
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:1BL12676AE878172W
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.96
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:1200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-1200|100367|124
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:160.80
+shipping:0.00
+
+[2017-03-22 07:54:41]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 07:56:17]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:12:10]==========================================
+mc_gross:214.40
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:01:12:00 Mar 22, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:6.52
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:4LV69291R0571474X
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:6.52
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:1600 KOIN
+mc_currency:USD
+item_number:K-1600|100367|152
+residence_country:US
+handling_amount:0.00
+transaction_subject:
+payment_gross:214.40
+shipping:0.00
+
+[2017-03-22 08:19:27]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:47:49]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:50:07]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:50:07]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:50:07]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:56:20]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:56:20]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:56:20]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:59:29]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:59:29]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 08:59:29]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:02:06]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:02:06]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:02:07]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:04:15]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:04:15]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:04:15]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:05:55]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:05:55]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:05:55]==========================================
+pdt FAILtx token : 
+
+[2017-03-22 09:09:31]==========================================
+
+[2017-03-22 09:09:31]==========================================
+
+[2017-03-22 09:09:31]==========================================
+
+[2017-03-22 09:13:01]==========================================
+
+[2017-03-22 09:13:01]==========================================
+
+[2017-03-22 09:13:01]==========================================
+
+[2017-03-22 09:36:10]==========================================
+
+[2017-03-22 09:36:10]==========================================
+
+[2017-03-22 09:36:10]==========================================
+
+[2017-03-22 09:38:14]==========================================
+
+[2017-03-22 09:38:14]==========================================
+
+[2017-03-22 09:38:14]==========================================
+
+[2017-03-22 09:56:14]==========================================
+
+[2017-03-22 09:56:14]==========================================
+
+[2017-03-22 09:56:14]==========================================
+
+[2017-03-22 09:59:14]==========================================
+
+[2017-03-22 09:59:14]==========================================
+
+[2017-03-22 09:59:14]==========================================
+
+[2017-03-22 10:01:46]==========================================
+
+[2017-03-22 10:01:46]==========================================
+
+[2017-03-22 10:01:46]==========================================
+
+[2017-03-22 10:03:19]==========================================
+
+[2017-03-22 10:03:19]==========================================
+
+[2017-03-22 10:03:19]==========================================
+
+[2017-03-22 10:09:13]==========================================
+
+[2017-03-22 10:09:13]==========================================
+
+[2017-03-22 10:09:13]==========================================
+
+[2017-03-22 10:11:17]==========================================
+
+[2017-03-22 10:11:17]==========================================
+
+[2017-03-22 10:11:17]==========================================
+
+[2017-03-22 10:12:33]==========================================
+
+[2017-03-22 10:12:33]==========================================
+
+[2017-03-22 10:12:33]==========================================
+
+[2017-03-22 11:05:01]==========================================
+
+[2017-03-22 11:05:01]==========================================
+
+[2017-03-22 11:05:01]==========================================
+
+[2017-03-22 11:11:18]==========================================
+
+[2017-03-22 11:11:18]==========================================
+
+[2017-03-22 11:11:18]==========================================
+
+[2017-03-22 11:13:45]==========================================
+
+[2017-03-22 11:13:45]==========================================
+
+[2017-03-22 11:13:45]==========================================
+
+[2017-03-22 11:14:58]==========================================
+
+[2017-03-22 11:14:58]==========================================
+
+[2017-03-22 11:14:58]==========================================
+
+[2017-03-22 11:16:10]==========================================
+
+[2017-03-22 11:16:10]==========================================
+
+[2017-03-22 11:16:10]==========================================
+
+[2017-03-22 11:17:52]==========================================
+
+[2017-03-22 11:17:52]==========================================
+
+[2017-03-22 11:17:52]==========================================
+
+[2017-03-22 11:19:33]==========================================
+
+[2017-03-22 11:19:33]==========================================
+
+[2017-03-22 11:19:33]==========================================
+
+[2017-03-22 11:20:53]==========================================
+
+[2017-03-22 11:22:34]==========================================
+
+[2017-03-24 05:43:27]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 187
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200
+param2 : 100367
+param3 : 187
+payto : EXIMBAY.COM
+cardholder : adfga asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 26.80
+convrate : 1
+rateid : 
+transid : EC4230299520170324000026
+rescode : 0000
+resmsg : Success!!
+authcode : 512218
+cardco : VISA
+resdt : 20170324144328
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 74135CBCE22259F48D03EF4B612E27277F3BF052CFFFF16F4BBC7556393FFFBE
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 02:09:24]==========================================
+pdt FAILtx token : 
+
+[2017-04-22 03:15:53]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 192
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200|27
+param2 : 100367
+param3 : 192
+payto : EXIMBAY.COM
+cardholder : ef asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000001
+rescode : 0000
+resmsg : Success!!
+authcode : 681977
+cardco : VISA
+resdt : 20170422121552
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 24A7DE26C4BFD8D2473910DA8733796DFE87D4DAAB3F753DCCDCEDCCB22E697A
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:15:54]==========================================
+
+[2017-04-22 03:19:21]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 193
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200|28
+param2 : 100367
+param3 : 193
+payto : EXIMBAY.COM
+cardholder : dfg adfg
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000002
+rescode : 0000
+resmsg : Success!!
+authcode : 386768
+cardco : VISA
+resdt : 20170422121919
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 2712A021F6BF2F4E7687F7C7A8F49E1D0D8425E447988EEF27944DB0149D6AC2
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:19:21]==========================================
+
+[2017-04-22 03:22:42]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 194
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200|29
+param2 : 100367
+param3 : 194
+payto : EXIMBAY.COM
+cardholder : adsf asdfasdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000003
+rescode : 0000
+resmsg : Success!!
+authcode : 376006
+cardco : VISA
+resdt : 20170422122240
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 1018C2A473C841F9562048A9298D29128F759495A11B9DA5E35C4EE7D1C43CD0
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:22:42]==========================================
+
+[2017-04-22 03:27:00]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 195
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200|30
+param2 : 100367
+param3 : 195
+payto : EXIMBAY.COM
+cardholder : adf asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000004
+rescode : 0000
+resmsg : Success!!
+authcode : 744541
+cardco : VISA
+resdt : 20170422122656
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : EE3EAA3AC81691449105451873A4BE27A15817CF679C2A41D9EB659B3127CE19
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:27:00]==========================================
+
+[2017-04-22 03:30:49]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 196
+cur : USD
+amt : 134.0
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 1000 KOIN
+lang : EN
+param1 : K-1000|31
+param2 : 100367
+param3 : 196
+payto : EXIMBAY.COM
+cardholder : f asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000005
+rescode : 0000
+resmsg : Success!!
+authcode : 541214
+cardco : VISA
+resdt : 20170422123048
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 51B5C242B8913D481E220220078B2E8273B26153AFA9668008355B4AC0C5D7FD
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:37:14]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 198
+cur : USD
+amt : 40.2
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 300 KOIN
+lang : EN
+param1 : K-300
+param2 : 100367
+param3 : 198
+payto : EXIMBAY.COM
+cardholder : sdc asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000008
+rescode : 0000
+resmsg : Success!!
+authcode : 849236
+cardco : VISA
+resdt : 20170422123712
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : F86FDAF8E3167EAA541AAEDB6D8051B403883E05471498564D94EDDEA269C1B8
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:38:58]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 199
+cur : USD
+amt : 67.0
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 500 KOIN
+lang : EN
+param1 : K-500|32
+param2 : 100367
+param3 : 199
+payto : EXIMBAY.COM
+cardholder : adsf asdf
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000009
+rescode : 0000
+resmsg : Success!!
+authcode : 408094
+cardco : VISA
+resdt : 20170422123857
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 9ED5AE94F8F63AFA5FDE34945E26E9A393A09A2EA0C3728EEA2F730417D417A9
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-04-22 03:42:17]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 200
+cur : USD
+amt : 147.4
+shop : Test Shop
+buyer : 유기영
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 1100 KOIN
+lang : EN
+param1 : K-1100|33
+param2 : 100367
+param3 : 200
+payto : EXIMBAY.COM
+cardholder : sdf sdfg
+shipTo_city : 
+shipTo_country : 
+shipTo_firstName : 
+shipTo_lastName : 
+shipTo_phoneNumber : 
+shipTo_postalCode : 
+shipTo_state : 
+shipTo_street1 : 
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170422000010
+rescode : 0000
+resmsg : Success!!
+authcode : 772011
+cardco : VISA
+resdt : 20170422124216
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : A9AAEF33FEE2E6F060656113916D2C73E3C230D5933D5A26699FCD9EC4EE98DD
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-05-12 03:04:36]==========================================
+mc_gross:26.80
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:20:04:30 May 11, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:1.08
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:8A7051375X7448106
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:1.08
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-200|100367|201|38
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:26.80
+shipping:0.00
+
+[2017-06-01 12:26:11]==========================================
+
+[2017-06-01 12:26:44]==========================================
+mc_gross:134.00
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:05:26:38 Jun 01, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:4.19
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:6V640702TM7495826
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:4.19
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:1000 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-1000|100160|252
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:134.00
+shipping:0.00
+
+[2017-06-01 12:27:13]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 253
+cur : USD
+amt : 26.8
+shop : Test Shop
+buyer : SeonCheol Son
+tel : 1234-5678
+email : ms08you@gmail.com
+product : 200 KOIN
+lang : EN
+param1 : K-200
+param2 : 100160
+param3 : 253
+payto : EXIMBAY.COM
+cardholder : asdf asdf
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170601000063
+rescode : 0000
+resmsg : Success!!
+authcode : 314074
+cardco : VISA
+resdt : 20170601212712
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : B1FCBC6D79DAEA608134CA7887F1BCB7210D2491FC9FBFEC80807CD8E34DED4E
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-06-01 12:48:20]==========================================
+mc_gross:31.53
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:05:48:13 Jun 01, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:1.21
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:31V61428AC964730V
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:1.21
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:300 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-300|100160|254
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:31.53
+shipping:0.00
+
+[2017-06-02 07:10:21]==========================================
+mc_gross:21.12
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:00:10:06 Jun 02, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:0.91
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:4YE084247D834590T
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:0.91
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+mc_currency:USD
+item_number:K-200|123|255
+residence_country:US
+handling_amount:0.00
+transaction_subject:
+payment_gross:21.12
+shipping:0.00
+
+[2017-06-02 07:14:56]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 258
+cur : USD
+amt : 21.12
+shop : Test Shop
+buyer : TUTOR K
+tel : 1234-5678
+email : corelook@naver.com
+product : 200 KOIN
+lang : EN
+param1 : K-200
+param2 : 123
+param3 : 258
+payto : EXIMBAY.COM
+cardholder : ff ff
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170602000056
+rescode : 0000
+resmsg : Success!!
+authcode : 06065594
+cardco : VISA
+resdt : 20170602161432
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 2B8B11664F6C0DC48CE3ABED0FDADBC5334C0664A76DF3ADE55E9DE19C09372C
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-06-02 07:18:33]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 260
+cur : USD
+amt : 13.4
+shop : Test Shop
+buyer : TUTOR K
+tel : 1234-5678
+email : corelook@naver.com
+product : 100 KOIN
+lang : EN
+param1 : K-100|2
+param2 : 123
+param3 : 260
+payto : EXIMBAY.COM
+cardholder : bbb bbb
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170602000057
+rescode : 0000
+resmsg : Success!!
+authcode : 06065595
+cardco : VISA
+resdt : 20170602161810
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : C9583CF35D81C30101ED9FE38BC0034540660F930BA9E01E6EAF492578890C87
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-06-07 07:50:17]==========================================
+mc_gross:26.80
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:00:50:12 Jun 07, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:1.08
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:04C54450H19744133
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:1.08
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-200|100160|262|3
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:26.80
+shipping:0.00
+
+[2017-06-12 05:08:12]==========================================
+mc_gross:10.72
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:22:08:04 Jun 11, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:0.61
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:5PG28355WR164731C
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:0.61
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:100 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-100|123|264
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:10.72
+shipping:0.00
+
+[2017-06-12 06:08:22]==========================================
+mc_gross:21.12
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:23:08:14 Jun 11, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:0.91
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:0XK43610NH8607716
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:0.91
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-200|100160|265|4
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:21.12
+shipping:0.00
+
+[2017-06-22 01:11:37]==========================================
+mc_gross:21.12
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:18:11:29 Jun 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:0.91
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:2LP54789NU105702T
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:0.91
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:200 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-200|123|266|5
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:21.12
+shipping:0.00
+
+[2017-06-22 05:49:56]==========================================
+mc_gross:208.43
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:22:49:48 Jun 21, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:6.34
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:3149039216114444S
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:6.34
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:2000 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-2000|103255|267
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:208.43
+shipping:0.00
+
+[2017-06-26 02:45:27]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 301
+cur : USD
+amt : 208.43
+shop : Test Shop
+buyer : 任勤
+tel : 1234-5678
+email : winky0724@naver.com
+product : 2000 KOIN
+lang : EN
+param1 : K-2000
+param2 : 103259
+param3 : 301
+payto : EXIMBAY.COM
+cardholder : fffff fff
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170626000005
+rescode : 0000
+resmsg : Success!!
+authcode : 747224
+cardco : VISA
+resdt : 20170626114525
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : A41387B8862ED7FE38CF393BBE6B586EB1CA2614E081F4860DC3C701B9A908AD
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
+
+[2017-06-28 07:29:53]==========================================
+mc_gross:104.37
+protection_eligibility:Eligible
+address_status:confirmed
+payer_id:TQWQUZTLBE3ZS
+tax:0.00
+address_street:001
+payment_date:00:29:43 Jun 28, 2017 PDT
+payment_status:Completed
+charset:windows-1252
+address_zip:50002
+first_name:test
+mc_fee:3.33
+address_country_code:US
+address_name:test buyer
+custom:
+payer_status:verified
+business:ms08you-facilitator@gmail.com
+address_country:United States
+address_city:San Jose
+quantity:1
+payer_email:ms08you-buyer@gmail.com
+txn_id:7J6306710H9171336
+payment_type:instant
+last_name:buyer
+address_state:CA
+receiver_email:ms08you-facilitator@gmail.com
+payment_fee:3.33
+shipping_discount:0.00
+insurance_amount:0.00
+receiver_id:8JTMNWRJ5REUA
+txn_type:web_accept
+item_name:1000 KOIN
+discount:0.00
+mc_currency:USD
+item_number:K-1000|103258|307
+residence_country:US
+shipping_method:Default
+handling_amount:0.00
+transaction_subject:
+payment_gross:104.37
+shipping:0.00
+
+[2017-07-04 05:37:29]==========================================
+ver : 210
+mid : 1849705C64
+txntype : PAYMENT
+ref : 311
+cur : USD
+amt : 21.12
+shop : Test Shop
+buyer : 윤슈기
+tel : 1234-5678
+email : dbstjr8200@naver.com
+product : 200 KOIN
+lang : EN
+param1 : K-200
+param2 : 103255
+param3 : 311
+payto : EXIMBAY.COM
+cardholder : gdfgd sdg
+foreigncur : USD
+foreignamt : 0.00
+convrate : 1
+rateid : 
+transid : 1849705C6420170704000029
+rescode : 0000
+resmsg : Success!!
+authcode : 692532
+cardco : VISA
+resdt : 20170704143727
+paymethod : P101
+accesscountry : KR
+allowedpvoid : Y
+fgkey : 1B043F44DAADF3C1B4889F028F6B9653D2912E274E8FCB31E60276E89F57BA47
+cardno1 : 4111
+cardno4 : 1111
+cardno : 4111XXXXXXXX1111
